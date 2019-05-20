@@ -12,3 +12,5 @@ For this exploit i have used offsets for Windows 7 x86.
   FuzzySecurity: http://fuzzysecurity.com/tutorials/expDev/21.html --> For the tutorial about and very good explanation.
   
   HackSysTeam (Twitter: @HackSysTeam) for the vulnerable driver.
+
+  tekwizz123(https://github.com/tekwizz123) : Thanks for the structures of NtQueryInformationProcess and PROCESS_BASIC_INFORMATION
